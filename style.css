@@ -19,4 +19,5 @@ nav {
     background-color: var(--primary-color);
     border: 2px solid rgba(200, 200, 200, 0.1);
     color: white;
+    position: fixed;
 }
