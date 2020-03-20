@@ -25,7 +25,7 @@ nav {
     width: 200px;
     height: 100vh;
     z-index: 100;
-    /* transform: translateX(-100%); */
+    transform: translateX(-100%);
 }
 
 nav .logo {
