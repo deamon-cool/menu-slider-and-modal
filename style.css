@@ -20,4 +20,9 @@ nav {
     border: 2px solid rgba(200, 200, 200, 0.1);
     color: white;
     position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100vh;
+    z-index: 100;
 }
