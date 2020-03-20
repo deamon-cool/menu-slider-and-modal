@@ -133,4 +133,23 @@ button:focus {
     transform: translate(-50%, -50%);
     max-width: 100%;
     width: 400px;
+}}
+
+.modal-header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 15px;
+}
+
+.modal-header h3 {
+    margin: 0;
+    border-bottom: 1px solid #333;
+}
+
+.modal-content {
+    padding: 20px;
+}
+
+.modal-form div {
+    margin: 15px 0;
 }
