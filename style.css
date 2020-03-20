@@ -153,3 +153,9 @@ button:focus {
 .modal-form div {
     margin: 15px 0;
 }
+
+.modal-form label {
+    display: block;
+    margin: 5px;
+}
+
